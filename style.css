@@ -1,0 +1,14 @@
+body {
+    /* CODE GOES HERE */
+}
+
+main>canvas
+{
+    width:100% !important;
+    height: auto !important;
+    border-radius: 24px !important;
+}
+
+#p5, #Handsfree {
+    border-radius: 24px !important;
+}
